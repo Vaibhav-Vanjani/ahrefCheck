@@ -115,6 +115,9 @@ export default function RootLayout({ children }) {
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
+      <head>
+        <script src="https://analytics.ahrefs.com/analytics.js" data-key="d2BvKZWc0WK23Etos/3Ucw" async></script>
+      </head>
       <body className="min-h-full flex flex-col">
         {/* Schema Markup */}
         <script
