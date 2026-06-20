@@ -1,0 +1,29 @@
+meta data = tells search engine about page (title and description) -> but lacks inner page structure/content
+
+schema markup = script which tells about page structure/context/meaning -> better search result (no title/description)
+
+open graph = for sharing data on social (whatsapp - when link shared what image / title / description appears)
+
+canonical version = what is official version of your website?
+
+published date/ modified date = needed for blogs/article (not landing page) why? -> as no one cares about landing page published date
+for faq updates it makes sense to update google about freshness 
+
+---
+robots.txt = for telling google bot about links to explore ,is used by web crawlers as they keep hitting website for seo,
+
+why -> if not mentioned (now google decides what to crawl) this files indirectly help google faster crawling and better ranking
+---
+
+sitemap = tells google to index pages within local url -> internationalschooling.org/abc
+
+--- 
+href lang -> tells google about for different language url are these 
+
+---
+
+robot-tags -> index, follow == for indexing pages and following links on pages 
+
+
+---
+
