@@ -10,6 +10,6 @@ export default function(){
     }
 
     return <>
-        <button onClick={apiHandler}>Click Me</button>
+        <button onClick={apiHandler} className="btn btn-primary">Click Me</button>
     </>
 }
